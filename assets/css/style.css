@@ -252,10 +252,8 @@ section p {
 }
 
 .social img {
-    width: 200px;
-    height: 200px;
-    background-color: #fff;
-    border: 5px solid #fff;
+    width: 300px;
+    height: 100px;
 }
 
 .social .row {
